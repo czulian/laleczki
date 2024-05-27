@@ -1,0 +1,1 @@
+print(moje nowe zabawki)
